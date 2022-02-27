@@ -1,2 +1,2 @@
-# Pregnancy_DataWarehouse
+# Pregnancy-DataWarehouse
  Pregnancy & Births Data Warehouse Project
